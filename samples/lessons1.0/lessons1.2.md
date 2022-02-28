@@ -6,11 +6,11 @@ Visual Studio是宇宙最强IDE不接受任何反驳
 
 进入[Visual Studio官网](visualstudio.microsoft.com)
 
-![image-20220228125126961](C:\Users\Administrator\Desktop\dotnet-teaching\samples\lessons1.0\image-20220228125126961.png)
+![image-20220228125126961](image-20220228125126961.png)
 
 下载完成后打开安装向导，选择以下内容(若有截图未包括的内容皆为不需要)
 
-![image-20220228125314940](C:\Users\Administrator\Desktop\dotnet-teaching\samples\lessons1.0\image-20220228125314940.png)![image-20220228125337530](C:\Users\Administrator\Desktop\dotnet-teaching\samples\lessons1.0\image-20220228125337530.png)
+![image-20220228125314940](image-20220228125314940.png)![image-20220228125337530](image-20220228125337530.png)
 
 安装完成即可使用
 
