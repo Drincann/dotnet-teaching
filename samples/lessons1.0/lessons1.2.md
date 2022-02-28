@@ -18,4 +18,4 @@ Visual Studio是宇宙最强IDE不接受任何反驳
 
 ## dotnet sdk
 
-下完Visual Studio基本上可以不用再下载了，如果有需要到https://dotnet.microsoft.com/zh-cn/download/dotnet可以下载自己所需的版本
+下完Visual Studio基本上可以不用再下载了，如果有需要可以到 https://dotnet.microsoft.com/zh-cn/download/dotnet 下载自己所需的版本
