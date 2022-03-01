@@ -6,7 +6,7 @@
 
 所有知识点都包含在文档中，这里有一切你需要的东西。
 
-## 课程安排
+## 课程参考文章
 
 1. .Net 发展史与开发环境配置
    1. [NET简介](./samples/lessons1.0/lessons1.1.md)
@@ -33,3 +33,58 @@
 在很多时候 .NET 也可指已经安装在操作系统中的虚拟机和类库的集合，其中最主要的是 .NET CLR（Common Language Runtime），它就像 JVM 可以运行 Java 字节码一样，.NET CLR 是 C#、VB、F# 等语言生成的中间代码 IL（Intermediate Language） 的运行时环境。
 
 所以，我们也可以说 C# 运行在 .NET CLR 上。
+
+## 知识点清单
+
+- .NET 与 Visual Studio
+  - Visual Stuido 的安装，以及 .NET 环境配置
+  - dotnet 命令行工具（创建示例程序模板，构建和运行程序）
+  - .NET 这个概念的含义
+  - .NET 是如何跨平台的
+  - .NET 程序，中间代码和虚拟机
+  - .NET 有哪些框架，这些框架可以做什么
+  - .NET 的历史
+    - .NET Framework
+    - .NET Core
+    - .NET
+- C#
+  - 流程控制
+  - 顶级语句(Top-level statements)
+  - 类型系统
+    - 命名空间
+    - 类和结构体
+    - 元祖
+    - 枚举
+    - 记录
+    - 接口
+    - 泛型
+    - 委托和 lambda 表达式
+    - 允许为 null 的值类型和允许为 null 的引用类型
+    - 类型转换
+  - 错误处理
+- WinForm
+  - TODO
+- C# 面向对象
+  - 封装
+    - 可访问性修饰符
+  - 继承
+  - 多态
+    - 简单设计模式
+      - 工厂模式
+  - C# 特性
+    - 事件
+    - 终结器（析构）
+    - 索引器
+    - 运算符重载
+    - 嵌套类型
+    - 匿名类型
+- ADO.NET(数据库)
+  - TODO
+- 多线程
+  - TODO
+- ASP.NET Core
+  - RESTful 是什么
+  - 如何使用 ASP.NET Core 开发 RESTful HTTP 客户端
+  - 什么是依赖注入，它解决了什么问题，该如何在 ASP.NET Core 中使用它
+  - 什么是 MVC
+  - 如何使用 Razor Pages 开发 Web 服务端程序
