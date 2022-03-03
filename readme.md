@@ -85,7 +85,7 @@
   - TODO
 - ASP.NET Core
   - RESTful 是什么
-  - 如何使用 ASP.NET Core 开发 RESTful HTTP 客户端
+  - 如何使用 ASP.NET Core 开发 RESTful HTTP 服务端
   - 什么是依赖注入，它解决了什么问题，该如何在 ASP.NET Core 中使用它
   - 什么是 MVC
   - 如何使用 Razor Pages 开发 Web 服务端程序
