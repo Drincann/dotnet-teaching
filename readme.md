@@ -113,7 +113,16 @@
     - 使用 LINQ 增删改查 MySQL数据库
     - 在 EF Core 中使用不同的数据库 Provider
 - 多线程
-  - TODO
+  - 手动管理线程(System.Threading.Thread)
+  - 前台线程和后台线程(守护和非守护)
+  - 线程同步
+  - 多线程环境的计时器 Timer
+  - 线程安全的数据结构(System.Collections.Concurrent)
+  - 基于任务的异步模式 TPL(线程/线程池之上的抽象层)
+    - 使用 async await
+    - Task
+    - 使用 LINQ 并行查询 -> PLINQ
+
 - ASP.NET Core
   - RESTful 是什么
   - 如何使用 ASP.NET Core 开发 RESTful HTTP 服务端
